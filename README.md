@@ -39,8 +39,8 @@ python main.py
 ## 📂 Project Structure
 
 ```
-OSINT-Lite/
-├── osint-lite.py
+FufuFafa/
+├── main.py
 ├── modules/
 │   ├── whois_scan.py
 │   ├── dns_scan.py
