@@ -51,8 +51,6 @@ FufuFafa/
 └── README.md
 ```
 
-## 📬 Contact
-
 Created by [meico-wq](https://github.com/meico-wq)
 
 ## ₿ Donate with Bitcoin
