@@ -3,3 +3,4 @@ python-whois
 pyfiglet
 colorama
 bs4
+urllib3
