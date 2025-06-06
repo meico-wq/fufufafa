@@ -1,0 +1,5 @@
+whois
+python-whois
+pyfiglet
+colorama
+bs4
