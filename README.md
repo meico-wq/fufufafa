@@ -34,6 +34,7 @@ python main.py
 
 ## 💻 Screenshot
 
+![screenshot](screenshot.png)
 
 ## 📂 Project Structure
 
