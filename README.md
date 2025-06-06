@@ -57,5 +57,5 @@ Created by [meico-wq](https://github.com/meico-wq)
 ## ₿ Donate with Bitcoin
 My money is not enough to buy a laptop, help me with bitcoin every satoshi helps!
 
-**Bitcoin Wallet Address:**
+**Bitcoin Wallet Address: 169Eg1dUvrC5xNb3KzGRg4G6ycvgUfrtsn**
 
