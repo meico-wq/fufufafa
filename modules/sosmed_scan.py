@@ -6,7 +6,6 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # Pola URL sosial media yang umum
 SOCIAL_PATTERNS = {
     "Facebook": r"https?://(www\.)?facebook\.com/[^\s\"'>]+",
-    "Twitter": r"https?://(www\.)?twitter\.com/[^\s\"'>]+",
     "Instagram": r"https?://(www\.)?instagram\.com/[^\s\"'>]+",
     "LinkedIn": r"https?://(www\.)?linkedin\.com/[^\s\"'>]+",
     "YouTube": r"https?://(www\.)?youtube\.com/[^\s\"'>]+",
